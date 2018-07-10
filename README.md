@@ -1,6 +1,6 @@
 # Getting Started
 
-Below is everything you will need in order to get up and running with this template. 
+Below is everything you will need in order to get up and running with this template.
 
 # Dependencies List
 
@@ -9,3 +9,4 @@ Below is everything you will need in order to get up and running with this templ
 - Animate on scroll (self explanatory)
 - Lunr (search blog)
 - Feather (icons)
+- sticky-footer (self explanatory)
