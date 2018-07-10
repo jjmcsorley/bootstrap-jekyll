@@ -1,18 +1,17 @@
 baseurl: "" # used for the navbar
+# Default Meta
 title: default title
 description: default description
+author: default author
 
-
-
-author: Joshua McSorley
-
-email: info@mrhyde.io
+email: info@hyde.io
 phone: (123) 456-7890
 
-facebook: https://www.facebook.com/joshuamcsorley
-twitter: https://twitter.com/JJMcSorley
-instagram: https://www.instagram.com/jjmcsorley
-github: https://github.com/jjmcsorley
+facebook: https://www.facebook.com/
+twitter: https://twitter.com/
+instagram: https://www.instagram.com/
+github: https://github.com/
 
+# Jekyll Functions
 sass:
   style: compressed
