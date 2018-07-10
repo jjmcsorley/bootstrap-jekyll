@@ -1,5 +1,8 @@
+baseurl: "" # used for the navbar
 title: default title
 description: default description
+
+
 
 name:
   first: Joshua
