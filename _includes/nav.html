@@ -19,6 +19,13 @@
           <a class="nav-link" href="{{ "/pricing" | prepend: site.baseurl }}">Pricing</a>
         </li>
 
+        <form class="form-inline input-group input-group-sm my-0" action="/search" method="get">
+          <input class="form-control ml-sm-2" type="search" id="search-box" name="query" placeholder="Search" aria-label="Search">
+          <div class="input-group-append">
+          <button class="btn btn-outline-primary" type="submit" value="search"><i data-feather="search"></i></button>
+          </div>
+        </form>
+
       </ul>
     </div>
   </div>

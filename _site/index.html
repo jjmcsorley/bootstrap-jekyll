@@ -8,8 +8,9 @@
 <!-- CSS -->
 <link rel="stylesheet" href="/css/style.css">
 <link rel="stylesheet" href="/src/aos/aos.css" >
+<link rel="stylesheet" href="/css/footer.css">
 <!-- SEO -->
-<title>Home | Joshua McSorley</title>
+<title>Home</title>
 <meta name="description" content="Home description"/>
 
 </head>
@@ -35,6 +36,13 @@
           <a class="nav-link" href="/pricing">Pricing</a>
         </li>
 
+        <form class="form-inline input-group input-group-sm my-0" action="/search" method="get">
+          <input class="form-control ml-sm-2" type="search" id="search-box" name="query" placeholder="Search" aria-label="Search">
+          <div class="input-group-append">
+          <button class="btn btn-outline-primary" type="submit" value="search"><i data-feather="search"></i></button>
+          </div>
+        </form>
+
       </ul>
     </div>
   </div>
@@ -47,19 +55,13 @@
   <header class="jumbotron my-4" data-aos="zoom-in" data-aos-delay="500" data-aos-duration="750" data-aos-easing="ease">
     <h1 class="display-3">A Warm Welcome!</h1>
     <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p>
-    <a href="#" class="btn btn-primary btn-lg">Call to action!</a>
+    <a href="#" class="btn btn-outline-primary btn-lg">Call to action!</a>
   </header>
-
-  <form action="/search" method="get">
-    <label for="search_box">Search</label>
-    <input type="text" id="search_box" name="query">
-    <input type="submit" value="search">
-  </form>
 
 </div>
 
   <!-- Footer -->
-<footer class="py-5 bg-dark">
+<footer class="footer bg-dark">
   <div class="container">
     <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
   </div>
