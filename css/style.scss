@@ -1,16 +1,14 @@
 ---
 ---
 // Your variable overrides
-
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136
+);
 
 // Jumbotron
 $jumbotron-padding:                 2rem !default;
 $jumbotron-bg:                      #ffffff;
-
-$theme-colors: (
-  "primary":                        #0074d9,
-  "danger":                         #ff4136
-);
 
 // Bootstrap and its default variables
 @import "bootstrap";
