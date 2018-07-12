@@ -1,4 +1,3 @@
-baseurl: "" # used for the navbar
 # Default Meta
 title: default title
 description: default description
@@ -12,6 +11,21 @@ twitter: https://twitter.com/
 instagram: https://www.instagram.com/
 github: https://github.com/
 
-# Jekyll Functions
+# Jekyll Features
+baseurl: "" # used for the navigation
+exclude: [README.md]
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# This will hide PDFs from the sitemap
+defaults:
+  -
+    scope:
+      path:            "pdf/*.pdf"
+    values:
+      sitemap:         false
+
 sass:
   style: compressed
