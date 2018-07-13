@@ -1,6 +1,6 @@
 # Getting Started
 
-Below is everything you will need in order to get up and running with this template.
+Simply download this repo, install Jekyll, run the jekyll server in the appropriate directory and type localhost:4000 in your browsers address bar.
 
 ## Asset List
 
@@ -11,7 +11,7 @@ Below is everything you will need in order to get up and running with this templ
 - [Feather](https://feathericons.com/)
 - [Sticky-footer](https://getbootstrap.com/docs/4.1/examples/sticky-footer/)
 
-## Task
+## Roadmap
 
 ### To Do
 
