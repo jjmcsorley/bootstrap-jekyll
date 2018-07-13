@@ -2,7 +2,7 @@
 
 Below is everything you will need in order to get up and running with this template.
 
-## Dependencies List
+## Asset List
 
 - Jekyll (CMS)
 - Bootstrap4 (jquery3 + popper)
@@ -10,8 +10,6 @@ Below is everything you will need in order to get up and running with this templ
 - Lunr (search blog)
 - Feather (icons)
 - Sticky-footer (self explanatory)
-
-## Issues
 
 ## Task
 
@@ -30,7 +28,7 @@ Below is everything you will need in order to get up and running with this templ
 - Write documentation
 - Create youtube tutorial series
 
-### Dreams
+### To Maybe
 
 - Consider incorporating firebase for login features such as commenting, chat, dashboards,
 
