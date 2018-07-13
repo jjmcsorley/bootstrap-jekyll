@@ -4,12 +4,12 @@ Below is everything you will need in order to get up and running with this templ
 
 ## Asset List
 
-- Jekyll (CMS)
-- Bootstrap4 (jquery3 + popper)
-- Animate on scroll (self explanatory)
-- Lunr (search blog)
-- Feather (icons)
-- Sticky-footer (self explanatory)
+- [Jekyll](https://jekyllrb.com/)
+- [Bootstrap 4](https://getbootstrap.com/)
+- [Animate on scroll](https://michalsnik.github.io/aos/)
+- [Lunr](https://lunrjs.com/)
+- [Feather](https://feathericons.com/)
+- [Sticky-footer](https://getbootstrap.com/docs/4.1/examples/sticky-footer/)
 
 ## Task
 
