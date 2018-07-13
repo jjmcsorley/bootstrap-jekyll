@@ -21,9 +21,11 @@ Download [Hyde](https://github.com/jjmcsorley/hyde.io), install [Jekyll](https:/
 
 ### To Do
 
+- Update liquid on blog.html to show all post
+- Update liquid on blog.html to limits the number of post showing
+- Update liquid on blog.html to incorporate pagination
+- Create John Doe's Bio Page and link that to post
 - Update front matter on index, post, and config to ensure the [SEO plugin](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) is being used to its full potential
-- Add liquid to blog page that shows all post
-- Add liquid to blog page that incorporate pagination and limits the number of post showing
 - Make the URLs for Post SEO friendly by updating the config file
 - Create more page layouts based on [Bootstrap 4 examples](https://getbootstrap.com/docs/4.1/examples/)
 - Review [GitHub help](https://help.github.com/categories/customizing-github-pages/) for more ideas
