@@ -15,18 +15,21 @@ Simply download this repo, install Jekyll, run the jekyll server in the appropri
 
 ### To Do
 
-- Fix Navbar Issues
-- Create blog page
-- Make the URLs for Post look better (SEO friendly)
-- Create more page layouts based on Bootstrap 4 examples
+- Update front matter on index, post, and config to ensure the [SEO plugin](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) is being used to its full potential
+- Add liquid to blog page that shows all post
+- Add liquid to blog page that incorporate pagination and limits the number of post showing
+- Make the URLs for Post SEO friendly by updating the config file
+- Create more page layouts based on [Bootstrap 4 examples](https://getbootstrap.com/docs/4.1/examples/)
+
 - Review GitHub help for more ideas: https://help.github.com/categories/customizing-github-pages/
 - Review Jekyll plugins https://jekyllrb.com/docs/plugins/
-- Incorporate SEO plugin correctly https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-- Incorporate form system
-- Have a Back-End developer help with setting up the AWS environment
-- Back-End task: Incorporate the ability to schedule post using git comment systems: https://serverless.com/blog/static-site-post-scheduler/
-- Write documentation
+
+- Incorporate form system using something free (preferably something that also lets marketers send out emails)
+- Have a Back-End developer help with implementing the AWS environment on the free tier
+- Back-End task: Incorporate the ability to schedule post using git [comment systems](https://serverless.com/blog/static-site-post-scheduler/)
+- Update this documentation
 - Create youtube tutorial series
+- Create themes
 
 ### To Maybe
 
