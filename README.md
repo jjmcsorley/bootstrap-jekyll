@@ -20,10 +20,8 @@ Simply download this repo, install Jekyll, run the jekyll server in the appropri
 - Add liquid to blog page that incorporate pagination and limits the number of post showing
 - Make the URLs for Post SEO friendly by updating the config file
 - Create more page layouts based on [Bootstrap 4 examples](https://getbootstrap.com/docs/4.1/examples/)
-
-- Review GitHub help for more ideas: https://help.github.com/categories/customizing-github-pages/
-- Review Jekyll plugins https://jekyllrb.com/docs/plugins/
-
+- Review [GitHub help](https://help.github.com/categories/customizing-github-pages/) for more ideas
+- Review [Jekyll plugins](https://jekyllrb.com/docs/plugins/) for more ideas
 - Incorporate form system using something free (preferably something that also lets marketers send out emails)
 - Have a Back-End developer help with implementing the AWS environment on the free tier
 - Back-End task: Incorporate the ability to schedule post using git [comment systems](https://serverless.com/blog/static-site-post-scheduler/)
