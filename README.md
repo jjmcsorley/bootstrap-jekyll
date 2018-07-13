@@ -1,6 +1,12 @@
-# Getting Started
+# Hyde.io
 
-Simply download this repo, install Jekyll, run the jekyll server in the appropriate directory and type localhost:4000 in your browsers address bar.
+A collection of useful & free frameworks / plugins and extensions.
+
+If you know a resource which is not listed here, make a pull request or open an issue. Please report broken links, outdated assets and spelling mistakes.
+
+## Getting Started
+
+Download [Hyde](https://github.com/jjmcsorley/hyde.io), install [Jekyll](https://jekyllrb.com/), run `jekyll serve` in the appropriate directory and type `localhost:4000` in your favorite browser's address bar and everything should load.
 
 ## Asset List
 
