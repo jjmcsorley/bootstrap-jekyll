@@ -1,7 +1,8 @@
-# Default Meta
+# SEO Tags
 title: default title
 description: default description
 author: default author
+categories: default categories
 
 email: info@hyde.io
 phone: (123) 456-7890
@@ -15,17 +16,17 @@ github: https://github.com/
 baseurl: "" # used for the navigation
 exclude: [README.md]
 
+sass:
+  style: compressed
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# This will hide PDFs from the sitemap
+# Sitemap Features
 defaults:
   -
     scope:
       path:            "pdf/*.pdf"
     values:
       sitemap:         false
-
-sass:
-  style: compressed

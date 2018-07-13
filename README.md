@@ -13,8 +13,6 @@ Below is everything you will need in order to get up and running with this templ
 
 ## Issues
 
-- Bootstrap dropdown menu layering issues with animate on scroll (see nav)
-
 ## Task
 
 ### To Do
@@ -47,3 +45,4 @@ Below is everything you will need in order to get up and running with this templ
 - Update lunr search to search pages and posts
 - Update Navbar to include active class dependent on page
 - (Resolved) Nav menu burger is not working for smaller devices
+- (Temp solution - turn off AOS) Bootstrap dropdown menu layering issues with animate on scroll (see nav)
