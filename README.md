@@ -14,13 +14,11 @@ Below is everything you will need in order to get up and running with this templ
 ## Issues
 
 - Bootstrap dropdown menu layering issues with animate on scroll (see nav)
-- Nav menu burger is not working for smaller devices
 
 ## Task
 
 ### To Do
 
-- Back-End task: Incorporate the ability to schedule post using git comment systems: https://serverless.com/blog/static-site-post-scheduler/
 - Fix Navbar Issues
 - Create blog page
 - Make the URLs for Post look better (SEO friendly)
@@ -30,13 +28,15 @@ Below is everything you will need in order to get up and running with this templ
 - Incorporate SEO plugin correctly https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 - Incorporate form system
 - Have a Back-End developer help with setting up the AWS environment
+- Back-End task: Incorporate the ability to schedule post using git comment systems: https://serverless.com/blog/static-site-post-scheduler/
 - Write documentation
 - Create youtube tutorial series
 
 ### Dreams
+
 - Consider incorporating firebase for login features such as commenting, chat, dashboards,
 
-### Done
+### To Done
 
 - Setup a baseline for the Jekyll file directory
 - Incorporate animate on scroll
@@ -46,3 +46,4 @@ Below is everything you will need in order to get up and running with this templ
 - Add CSS for sticky footers
 - Update lunr search to search pages and posts
 - Update Navbar to include active class dependent on page
+- (Resolved) Nav menu burger is not working for smaller devices

@@ -2,5 +2,6 @@ john-doe:
   first name: John
   last name: Doe
   shorthand: jdoe
-  img:
-  bio:
+  url:
+  img: /img/people/john_doe.jpg
+  bio: I'm the best!
