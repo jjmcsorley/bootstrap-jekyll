@@ -29,6 +29,7 @@ Download [Hyde](https://github.com/jjmcsorley/hyde.io), install [Jekyll](https:/
 - Make the URLs for Post SEO friendly by updating the config file
 - Create more page layouts based on [Bootstrap 4 examples](https://getbootstrap.com/docs/4.1/examples/)
 - Review [GitHub help](https://help.github.com/categories/customizing-github-pages/) for more ideas
+- Consider adding multi-language support using this [plugin](https://github.com/vwochnik/jekyll-language-plugin)
 - Review [Jekyll plugins](https://jekyllrb.com/docs/plugins/) for more ideas
 - Incorporate form system using something free (preferably something that also lets marketers send out emails)
 - Have a Back-End developer help with implementing the AWS environment on the free tier
@@ -53,3 +54,4 @@ Download [Hyde](https://github.com/jjmcsorley/hyde.io), install [Jekyll](https:/
 - Update Navbar to include active class dependent on page
 - (Resolved) Nav menu burger is not working for smaller devices
 - (Temp solution - turn off AOS) Bootstrap dropdown menu layering issues with animate on scroll (see nav)
+- Add on hover dropdown menu

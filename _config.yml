@@ -22,6 +22,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-language-plugin
 
 # Sitemap Features
 defaults:
