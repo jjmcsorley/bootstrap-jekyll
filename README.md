@@ -6,7 +6,7 @@ If you know a resource which is not listed here, make a pull request or open an 
 
 ## Getting Started
 
-Download [Hyde](https://github.com/jjmcsorley/hyde.io), install [Jekyll](https://jekyllrb.com/), run `jekyll serve` in the appropriate directory and type `localhost:4000` in your favorite browser's address bar and everything should load.
+Download this repository, install that latest version of [Jekyll](https://jekyllrb.com/), run `jekyll serve` in the appropriate directory, and type `localhost:4000` in your favorite browser's address bar to get everything up and running locally.
 
 ## Asset List
 
