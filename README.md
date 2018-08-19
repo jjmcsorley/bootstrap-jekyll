@@ -1,6 +1,6 @@
-# Hyde.io
+# bootstrap-jekyll
 
-A collection of useful & free frameworks / plugins and extensions.
+A boilerplate for making static websites built with jekyll, bootstrap 4, animate on scroll, lunr, and feather.
 
 If you know a resource which is not listed here, make a pull request or open an issue. Please report broken links, outdated assets and spelling mistakes.
 
