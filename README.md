@@ -6,7 +6,7 @@ If you know a resource which is not listed here, make a pull request or open an 
 
 ## Getting Started
 
-Download this repository, install that latest version of [Jekyll](https://jekyllrb.com/), run `jekyll serve` in the appropriate directory, and type `localhost:4000` in your favorite browser's address bar to get everything up and running locally.
+Download this repository, install that latest version of [Jekyll](https://jekyllrb.com/), run `bundle exec jekyll serve` in the appropriate directory, and type `localhost:4000` in your favorite browser's address bar to get everything up and running locally.
 
 ## Asset List
 
@@ -21,7 +21,6 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 
 ### To Do
 
-- Update liquid on blog.html to show all post
 - Update liquid on blog.html to limits the number of post showing
 - Update liquid on blog.html to incorporate pagination
 - Create John Doe's Bio Page and link that to post
@@ -56,3 +55,4 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 - (Temp solution - turn off AOS) Bootstrap dropdown menu layering issues with animate on scroll (see nav)
 - Add on hover dropdown menu
 - Fix body padding issue (footer)
+- Update liquid on blog.html to show all post

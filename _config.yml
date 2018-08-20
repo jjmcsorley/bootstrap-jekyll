@@ -1,10 +1,35 @@
-# SEO Tags
+# SEO Plugin Default Tags
+# url: default.url.com
+logo: /img/global/1200x1200.png
+image: /img/global/1200x1200.png
 title: default title
 description: default description
 author: default author
-categories: default categories
+# categories: default categories
+# social:
+#   name: John Doe
+#   links:
+#     - https://twitter.com/johndoe
+#     - https://www.facebook.com/john.doe
+#     - https://www.linkedin.com/in/johndoe
+#     - https://plus.google.com/+johndoe
+#     - https://github.com/johndoe
+#     - https://keybase.io/johndoe
+# twitter:
+#   username: johndoe
+#   card: summary
+# facebook:
+#   app_id: 1234
+#   publisher: 1234
+#   admins: 1234
+# webmaster_verifications:
+#   google: 1234
+#   bing: 1234
+#   alexa: 1234
+#   yandex: 1234
+#   baidu: 1234
 
-email: info@hyde.io
+email: info@default.io
 phone: (123) 456-7890
 
 facebook: https://www.facebook.com/
@@ -13,16 +38,11 @@ instagram: https://www.instagram.com/
 github: https://github.com/
 
 # Jekyll Features
-baseurl: "" # used for the navigation
+baseurl: "" # used for the navigation (keep blank)
 exclude: [README.md]
 
 sass:
   style: compressed
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-language-plugin
 
 # Sitemap Features
 defaults:
