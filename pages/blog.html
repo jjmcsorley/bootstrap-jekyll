@@ -29,7 +29,7 @@ categories: jekyll bootstrap
     </nav>
   </div>
 </div>
-
+<!-- Header -->
 <div class="jumbotron rounded-0">
   <div class="container">
     <div class="col-md-6 px-0">
@@ -39,7 +39,7 @@ categories: jekyll bootstrap
     </div>
   </div>
 </div>
-
+<!-- Featured Post -->
 <div class="container">
       <div class="row mb-2">
         <div class="col-md-6">
@@ -72,13 +72,20 @@ categories: jekyll bootstrap
         </div>
       </div>
     </div>
-
+    <!-- All Post -->
     <main role="main" class="container">
       <div class="row">
         <div class="col-md-8 blog-main">
           <h3 class="pb-3 mb-4 font-italic border-bottom">
             From the Firehose
           </h3>
+          <div class="blog-post">
+            {% for post in site.posts %}
+              <a href="{{ post.url }}">
+                <h2 class="blog-post-title">{{ post.title }}</h2>
+              </a>
+            {% endfor %}
+          </div>
 
           <div class="blog-post">
             <h2 class="blog-post-title">Sample blog post</h2>
@@ -145,7 +152,7 @@ categories: jekyll bootstrap
           </nav>
 
         </div><!-- /.blog-main -->
-
+        <!-- Sidebar -->
         <aside class="col-md-4 blog-sidebar">
           <div class="p-3 mb-3 bg-light rounded">
             <h4 class="font-italic">About</h4>
