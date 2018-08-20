@@ -55,3 +55,4 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 - (Resolved) Nav menu burger is not working for smaller devices
 - (Temp solution - turn off AOS) Bootstrap dropdown menu layering issues with animate on scroll (see nav)
 - Add on hover dropdown menu
+- Fix body padding issue (footer)
