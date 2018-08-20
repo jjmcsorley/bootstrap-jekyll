@@ -21,7 +21,6 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 
 ### To Do
 
-- Update liquid on blog.html to show all post
 - Update liquid on blog.html to limits the number of post showing
 - Update liquid on blog.html to incorporate pagination
 - Create John Doe's Bio Page and link that to post
@@ -56,3 +55,4 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 - (Temp solution - turn off AOS) Bootstrap dropdown menu layering issues with animate on scroll (see nav)
 - Add on hover dropdown menu
 - Fix body padding issue (footer)
+- Update liquid on blog.html to show all post
