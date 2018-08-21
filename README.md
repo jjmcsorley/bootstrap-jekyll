@@ -24,7 +24,6 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 ### To Do
 Version 1.0
 
-- Create html elements page
 - Update front matter on index, post, and config to ensure the [SEO plugin](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) is being used to its full potential
 - Make the URLs for Post SEO friendly by updating the config file
 - Create more page layouts based on [Bootstrap 4 examples](https://getbootstrap.com/docs/4.1/examples/)
@@ -65,6 +64,7 @@ Version 2.0
 - Fix body padding issue (footer)
 - Update liquid on blog.html to show all post
 - Update Blog post style (figured out how and chose not to until a later date)
+- Create html elements page
 
 ### Issue listed
 - Update liquid on blog.html to limits the number of post showing

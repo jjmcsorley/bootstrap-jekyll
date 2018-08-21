@@ -3,6 +3,7 @@ baseurl: "" # used for the navigation (keep blank)
 exclude:
   - README.md
   - LICENSE.md
+  # - elements.html
 
 sass:
   style: compressed
