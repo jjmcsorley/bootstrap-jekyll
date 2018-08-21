@@ -24,8 +24,6 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 ### To Do
 Version 1.0
 
-
-- Update Blog post style
 - Create html elements page
 - Update front matter on index, post, and config to ensure the [SEO plugin](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) is being used to its full potential
 - Make the URLs for Post SEO friendly by updating the config file
@@ -47,7 +45,8 @@ Version 2.0
 
 ### To Maybe
 
-- Consider incorporating firebase for login features such as commenting, chat, dashboards,
+- add lazy load
+- incorporate firebase for login features such as commenting, chat, and dashboards
 
 
 ### To Done
@@ -65,6 +64,7 @@ Version 2.0
 - Add on hover dropdown menu
 - Fix body padding issue (footer)
 - Update liquid on blog.html to show all post
+- Update Blog post style (figured out how and chose not to until a later date)
 
 ### Issue listed
 - Update liquid on blog.html to limits the number of post showing
