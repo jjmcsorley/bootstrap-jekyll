@@ -22,10 +22,12 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 ## Roadmap
 
 ### To Do
+Version 1.0
 
 - Update liquid on blog.html to limits the number of post showing
 - Update liquid on blog.html to incorporate pagination
-- Create John Doe's Bio Page and link that to post
+- Update Blog post style
+- Create html elements page
 - Update front matter on index, post, and config to ensure the [SEO plugin](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) is being used to its full potential
 - Make the URLs for Post SEO friendly by updating the config file
 - Create more page layouts based on [Bootstrap 4 examples](https://getbootstrap.com/docs/4.1/examples/)
@@ -39,9 +41,15 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 - Create youtube tutorial series
 - Create themes
 
+### To Do
+Version 2.0
+
+- Create John Doe's Bio Page and link that to post
+
 ### To Maybe
 
 - Consider incorporating firebase for login features such as commenting, chat, dashboards,
+
 
 ### To Done
 

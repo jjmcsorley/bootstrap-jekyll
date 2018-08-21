@@ -1,4 +1,35 @@
-# SEO Plugin Default Tags
+# JEKYLL FEATURES
+baseurl: "" # used for the navigation (keep blank)
+exclude:
+  - README.md
+  - LICENSE.md
+
+sass:
+  style: compressed
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# ------------------------------
+
+# CUSTOM SETTINGS
+email: info@default.io
+phone: (123) 456-7890
+
+facebook: https://www.facebook.com/
+twitter: https://twitter.com/
+instagram: https://www.instagram.com/
+github: https://github.com/
+
+# SITEMAP PLUGIN SETTINGS
+defaults:
+  -
+    scope:
+      path:            "pdf/*.pdf"
+    values:
+      sitemap:         false
+
+# SEO PLUGIN SETTINGS
 # url: default.url.com
 logo: /img/global/1200x1200.png
 image: /img/global/1200x1200.png
@@ -28,26 +59,3 @@ author: default author
 #   alexa: 1234
 #   yandex: 1234
 #   baidu: 1234
-
-email: info@default.io
-phone: (123) 456-7890
-
-facebook: https://www.facebook.com/
-twitter: https://twitter.com/
-instagram: https://www.instagram.com/
-github: https://github.com/
-
-# Jekyll Features
-baseurl: "" # used for the navigation (keep blank)
-exclude: [README.md]
-
-sass:
-  style: compressed
-
-# Sitemap Features
-defaults:
-  -
-    scope:
-      path:            "pdf/*.pdf"
-    values:
-      sitemap:         false
