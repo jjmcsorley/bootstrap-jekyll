@@ -24,8 +24,7 @@ Download this repository, install that latest version of [Jekyll](https://jekyll
 ### To Do
 Version 1.0
 
-- Update liquid on blog.html to limits the number of post showing
-- Update liquid on blog.html to incorporate pagination
+
 - Update Blog post style
 - Create html elements page
 - Update front matter on index, post, and config to ensure the [SEO plugin](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) is being used to its full potential
@@ -66,3 +65,7 @@ Version 2.0
 - Add on hover dropdown menu
 - Fix body padding issue (footer)
 - Update liquid on blog.html to show all post
+
+### Issue listed
+- Update liquid on blog.html to limits the number of post showing
+- Update liquid on blog.html to incorporate pagination
