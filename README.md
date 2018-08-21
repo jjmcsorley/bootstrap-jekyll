@@ -1,3 +1,5 @@
+![bootstrap-jekyll logo](/img/global/logo.png)
+
 # bootstrap-jekyll
 
 A boilerplate for making static websites built with jekyll, bootstrap 4, animate on scroll, lunr, and feather.
